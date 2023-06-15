@@ -1,0 +1,10 @@
+body{
+  margin: 0;
+}
+
+#img {
+  background-image: linear-gradient(to right, rgb(56, 55, 60), rgb(89, 76, 51));
+  padding: 50px 150px;
+  box-sizing: border-box;
+  width: 100%;
+}
